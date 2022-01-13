@@ -2,7 +2,7 @@
 package metodosjava;
 import java.util.Scanner;
 
-public class MetodosJava {
+public class Main {
 
     public static void main(String[] args) {
         
