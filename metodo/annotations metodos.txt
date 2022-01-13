@@ -1,0 +1,19 @@
+---------------METODOS------------------
+
+<?visibilidade?> <?tipo?> <?modificador?> retorno nome (<?parametros?>) <?excecoes?> corpo
+
+- Criação
+	- visibilidade: public, protected, private
+	- tipo: concreto , abstrato
+	- modificador: static, final
+	- retorno: tipo de dado , void
+	- nome: nome que é fornecido ao método
+	- parametro: parametro que pode receber
+	- exceção: exceção que pode lançar
+	- código: código que possui ou vazio
+
+
+
+
+
+
